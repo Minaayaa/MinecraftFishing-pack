@@ -5,7 +5,7 @@ achievement icons. The plugin offers it to players when they join, so you don't 
 
 Download: https://raw.githubusercontent.com/Minaayaa/MinecraftFishing-pack/main/FishingExpansion-pack.zip
 
-Plugin version 1.0.0 · sha1 `494fc4676cd372b23eeff454579563874449179e`
+Plugin version 1.0.0 · sha1 `53fa713aea41e7a13ee860ea23444b373e1c9af0`
 
 In `plugins/FishingExpansion/config.yml`:
 
