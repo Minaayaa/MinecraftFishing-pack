@@ -47,7 +47,6 @@ This license covers only what the copyright holder owns. It does not cover, and 
 
   - Minecraft and its assets, which belong to Mojang AB and Microsoft; textures derived from them (such as the
     re-dyed fisherman villager) remain subject to Mojang's terms;
-  - Vesper the Foxling, a character belonging to Fuxel, which appears in the Work with permission;
   - the libraries and APIs the plugin uses (Paper, PlaceholderAPI, Vault, WorldGuard and WorldEdit), which keep
     their own licenses.
 
