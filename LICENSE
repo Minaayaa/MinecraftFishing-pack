@@ -1,0 +1,70 @@
+Fishing Expansion - Proprietary License
+
+Copyright (c) 2026 Minaayaa. All rights reserved.
+
+"Fishing Expansion" (the "Work") means the Fishing Expansion Minecraft server plugin and everything that comes
+with it: its source code and compiled code (including every jar built from it), its configuration files, its
+translations and texts, and its resource pack with all textures, sprites, models, fonts, sounds and music, as well
+as the tools, art and documentation used to make them.
+
+
+1. Ownership
+
+The Work is protected by copyright and other laws. It is licensed, not sold. All rights not expressly granted in
+this license are reserved by the copyright holder.
+
+
+2. What you may do
+
+Unless you have a separate written agreement with the copyright holder, you may only:
+
+  a) install and run unmodified copies of the plugin jar, as published by the copyright holder, on Minecraft
+     servers you operate, and change its configuration files (config.yml, fish.yml, quests.yml and the like) for
+     those servers;
+  b) as a player, download and use the resource pack to play on servers that run the plugin;
+  c) share links to the copyright holder's own download pages, and show the Work in videos, streams and
+     screenshots.
+
+
+3. What you may not do
+
+Without prior written permission from the copyright holder, you may not:
+
+  a) copy, redistribute, re-upload, mirror, sell, rent, lease, sublicense or otherwise make the Work or any part
+     of it available to others, free of charge or not (this includes plugin and resource pack sites, marketplaces
+     and file hosts), except as allowed in section 2;
+  b) modify, translate, adapt, decompile, disassemble or reverse engineer the Work, or create derivative works
+     from it, except to the extent that applicable law expressly allows this despite this limitation;
+  c) take the Work's textures, models, sounds, music or other assets out of it and use them in anything else,
+     including other plugins, mods, resource packs or data packs;
+  d) remove or change any copyright notice, license or attribution in the Work;
+  e) present the Work, or any part of it, as your own.
+
+
+4. Third-party material
+
+This license covers only what the copyright holder owns. It does not cover, and no rights are claimed in:
+
+  - Minecraft and its assets, which belong to Mojang AB and Microsoft; textures derived from them (such as the
+    re-dyed fisherman villager) remain subject to Mojang's terms;
+  - Vesper the Foxling, a character belonging to Fuxel, which appears in the Work with permission;
+  - the libraries and APIs the plugin uses (Paper, PlaceholderAPI, Vault, WorldGuard and WorldEdit), which keep
+    their own licenses.
+
+
+5. No warranty
+
+The Work is provided "as is", without warranty of any kind, express or implied, including the warranties of
+merchantability, fitness for a particular purpose and non-infringement. In no event shall the copyright holder be
+liable for any claim, damages or other liability, whether in contract, tort or otherwise, arising from, out of or
+in connection with the Work or its use, including lost data, lost items or damage to worlds or servers.
+
+
+6. Termination
+
+Any use of the Work that breaks this license ends your rights under it at once. On termination you must stop
+using the Work and delete every copy you have.
+
+
+For permissions beyond this license, contact the copyright holder, Minaayaa, through GitHub:
+https://github.com/Minaayaa

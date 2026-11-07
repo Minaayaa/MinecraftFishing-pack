@@ -14,3 +14,9 @@ resource-pack:
   mode: url
   url: "https://raw.githubusercontent.com/Minaayaa/MinecraftFishing-pack/main/FishingExpansion-pack.zip"
 ```
+
+## License
+
+Copyright (c) 2026 Minaayaa. All rights reserved. The pack's textures, models, sounds and music may only be used to
+play on servers running Fishing Expansion: copying, re-uploading, modifying or reusing them anywhere else needs
+written permission. Minecraft assets belong to Mojang, and Vesper the Foxling to Fuxel. Full terms: [LICENSE](LICENSE).
